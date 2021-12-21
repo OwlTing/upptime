@@ -3,12 +3,22 @@ owner: OwlTing # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: Owlting Market
+    url: https://www.owlting.com/market
+  - name: Owlnest Booking Engine
+    url: https://booking.owlting.com
+  - name: Owlnest API
+    url: https://api.owlting.com/booking/admin/version
+  - name: Owlting Experiences
+    url: https://www.owlting.com/experiences
+  - name: Owljourney
+    url: https://www.owlting.com/owljourney
+  - name: Owlnews
+    url: https://www.owlting.com/news
   - name: Owlting Portal
     url: https://www.owlting.com/portal
   - name: Owlpay Portal
     url: https://owlpay.com
-  - name: Owlting Market
-    url: https://www.owlting.com/market
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,8 +27,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Owlting status page"
+  introMessage: Service incidents are tracked through [Issues](https://github.com/OwlTing/upptime/issues). Leave your comment in issues if you have any question
   navbar:
     - title: Status
       href: /
