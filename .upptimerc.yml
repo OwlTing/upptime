@@ -9,7 +9,6 @@ sites:
     url: https://booking.owlting.com
   - name: OwlJourney
     url: https://www.owlting.com/owljourney
-    icon: https://www.google.com/favicon.ico
   - name: OwlTing Market
     url: https://www.owlting.com/market
   - name: OwlTing Experiences
