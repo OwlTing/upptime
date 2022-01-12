@@ -21,10 +21,15 @@ sites:
     url: https://www.owlting.com/portal
   - name: OwlPay Portal
     url: https://owlpay.com
+  - name: OwlTing AML
+    url: https://aml.owlpay.com/v1/health
   - name: OBS Portal
     url: https://www.owlting.com/obs/
   - name: OwlTing Blog
     url: https://blog.owlting.com/
+  - name: OwlMap
+    url: https://api.owlting.com/owlmap/health
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
