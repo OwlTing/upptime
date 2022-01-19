@@ -202,19 +202,19 @@
     "url": "https://blog.owlting.com/",
     "icon": "https://favicons.githubusercontent.com/blog.owlting.com",
     "slug": "owl-ting-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4481,
-    "timeDay": 3780,
-    "timeWeek": 4599,
-    "timeMonth": 4481,
-    "timeYear": 4481,
+    "status": "up",
+    "uptime": "98.66%",
+    "uptimeDay": "89.36%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
+    "time": 4679,
+    "timeDay": 5319,
+    "timeWeek": 4850,
+    "timeMonth": 4679,
+    "timeYear": 4679,
     "dailyMinutesDown": {
-      "2022-01-19": 0
+      "2022-01-19": 153
     }
   },
   {
