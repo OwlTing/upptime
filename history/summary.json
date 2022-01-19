@@ -202,9 +202,9 @@
     "url": "https://blog.owlting.com/",
     "icon": "https://favicons.githubusercontent.com/blog.owlting.com",
     "slug": "owl-ting-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,7 +213,9 @@
     "timeWeek": 4599,
     "timeMonth": 4481,
     "timeYear": 4481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-19": 0
+    }
   },
   {
     "name": "OwlMap",
