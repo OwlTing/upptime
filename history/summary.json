@@ -58,9 +58,9 @@
     "url": "https://www.owlting.com/market",
     "icon": "https://favicons.githubusercontent.com/www.owlting.com",
     "slug": "owl-ting-market",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1333,
     "timeMonth": 1294,
     "timeYear": 1290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   },
   {
     "name": "OwlTing Experiences",
