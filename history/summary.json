@@ -96,19 +96,19 @@
     "url": "https://www.owlting.com/news",
     "icon": "https://favicons.githubusercontent.com/www.owlting.com",
     "slug": "owl-news",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1371,
-    "timeDay": 760,
-    "timeWeek": 1028,
-    "timeMonth": 1176,
-    "timeYear": 1371,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "85.83%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.74%",
+    "time": 1372,
+    "timeDay": 985,
+    "timeWeek": 1073,
+    "timeMonth": 1185,
+    "timeYear": 1372,
     "dailyMinutesDown": {
-      "2022-03-06": 0
+      "2022-03-06": 204
     }
   },
   {
