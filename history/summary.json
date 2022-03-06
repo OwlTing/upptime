@@ -13,7 +13,7 @@
     "time": 718,
     "timeDay": 617,
     "timeWeek": 668,
-    "timeMonth": 727,
+    "timeMonth": 725,
     "timeYear": 718,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 941,
     "timeDay": 562,
     "timeWeek": 907,
-    "timeMonth": 1002,
+    "timeMonth": 1011,
     "timeYear": 941,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 617,
     "timeDay": 564,
     "timeWeek": 586,
-    "timeMonth": 630,
+    "timeMonth": 628,
     "timeYear": 617,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1275,
     "timeDay": 1311,
     "timeWeek": 1272,
-    "timeMonth": 1292,
+    "timeMonth": 1291,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2022-02-21": 20
@@ -87,7 +87,7 @@
     "time": 926,
     "timeDay": 841,
     "timeWeek": 887,
-    "timeMonth": 958,
+    "timeMonth": 955,
     "timeYear": 926,
     "dailyMinutesDown": {}
   },
@@ -96,18 +96,20 @@
     "url": "https://www.owlting.com/news",
     "icon": "https://favicons.githubusercontent.com/www.owlting.com",
     "slug": "owl-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1390,
-    "timeDay": 1257,
-    "timeWeek": 1137,
-    "timeMonth": 1220,
-    "timeYear": 1390,
-    "dailyMinutesDown": {}
+    "time": 1371,
+    "timeDay": 760,
+    "timeWeek": 1028,
+    "timeMonth": 1176,
+    "timeYear": 1371,
+    "dailyMinutesDown": {
+      "2022-03-06": 0
+    }
   },
   {
     "name": "OwlTing NFT",
@@ -123,7 +125,7 @@
     "time": 982,
     "timeDay": 913,
     "timeWeek": 954,
-    "timeMonth": 968,
+    "timeMonth": 966,
     "timeYear": 982,
     "dailyMinutesDown": {
       "2022-02-14": 23
@@ -143,7 +145,7 @@
     "time": 683,
     "timeDay": 619,
     "timeWeek": 649,
-    "timeMonth": 689,
+    "timeMonth": 687,
     "timeYear": 683,
     "dailyMinutesDown": {}
   },
@@ -161,7 +163,7 @@
     "time": 617,
     "timeDay": 558,
     "timeWeek": 597,
-    "timeMonth": 626,
+    "timeMonth": 624,
     "timeYear": 617,
     "dailyMinutesDown": {}
   },
@@ -179,7 +181,7 @@
     "time": 643,
     "timeDay": 565,
     "timeWeek": 620,
-    "timeMonth": 656,
+    "timeMonth": 652,
     "timeYear": 643,
     "dailyMinutesDown": {}
   },
@@ -197,7 +199,7 @@
     "time": 142,
     "timeDay": 129,
     "timeWeek": 136,
-    "timeMonth": 145,
+    "timeMonth": 144,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -215,7 +217,7 @@
     "time": 4357,
     "timeDay": 3868,
     "timeWeek": 3935,
-    "timeMonth": 4161,
+    "timeMonth": 4130,
     "timeYear": 4357,
     "dailyMinutesDown": {
       "2022-01-19": 153
@@ -235,7 +237,7 @@
     "time": 761,
     "timeDay": 549,
     "timeWeek": 716,
-    "timeMonth": 771,
+    "timeMonth": 774,
     "timeYear": 761,
     "dailyMinutesDown": {}
   }
