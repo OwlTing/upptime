@@ -78,9 +78,9 @@
     "url": "https://www.owlting.com/experiences",
     "icon": "https://favicons.githubusercontent.com/www.owlting.com",
     "slug": "owl-ting-experiences",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 1045,
     "timeMonth": 971,
     "timeYear": 937,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 0
+    }
   },
   {
     "name": "OwlNews",
