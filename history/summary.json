@@ -176,19 +176,19 @@
     "url": "https://aml.owlpay.com/v1/health",
     "icon": "https://favicons.githubusercontent.com/aml.owlpay.com",
     "slug": "owl-ting-aml",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 589,
-    "timeWeek": 697,
-    "timeMonth": 678,
-    "timeYear": 658,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 657,
+    "timeDay": 592,
+    "timeWeek": 684,
+    "timeMonth": 675,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2022-03-22": 0
+      "2022-03-22": 21
     }
   },
   {
