@@ -79,11 +79,11 @@
     "icon": "https://favicons.githubusercontent.com/www.owlting.com",
     "slug": "owl-ting-experiences",
     "status": "up",
-    "uptime": "94.44%",
+    "uptime": "94.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "37.73%",
     "uptimeMonth": "85.62%",
-    "uptimeYear": "94.44%",
+    "uptimeYear": "94.45%",
     "time": 950,
     "timeDay": 907,
     "timeWeek": 988,
@@ -103,9 +103,9 @@
     "url": "https://www.owlting.com/news",
     "icon": "https://favicons.githubusercontent.com/www.owlting.com",
     "slug": "owl-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.80%",
@@ -115,6 +115,7 @@
     "timeMonth": 1313,
     "timeYear": 1376,
     "dailyMinutesDown": {
+      "2022-03-31": 0,
       "2022-03-22": 23,
       "2022-03-06": 204
     }
