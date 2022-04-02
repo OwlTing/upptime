@@ -22,9 +22,9 @@
     "url": "https://booking.owlting.com",
     "icon": "https://favicons.githubusercontent.com/booking.owlting.com",
     "slug": "owl-nest-booking-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1071,
     "timeMonth": 939,
     "timeYear": 954,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "OwlJourney",
@@ -79,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/www.owlting.com",
     "slug": "owl-ting-experiences",
     "status": "up",
-    "uptime": "94.57%",
+    "uptime": "94.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.99%",
+    "uptimeWeek": "58.64%",
     "uptimeMonth": "85.62%",
-    "uptimeYear": "94.57%",
+    "uptimeYear": "94.61%",
     "time": 952,
     "timeDay": 1021,
     "timeWeek": 979,
