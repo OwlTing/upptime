@@ -39,7 +39,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Owlting status page"
-  introMessage: Service incidents are tracked through [Issues](https://github.com/OwlTing/upptime/issues). Leave your comment in issues if you have any question
+  introMessage: Service incidents are tracked through [Issues](https://github.com/OwlTing/upptime/issues), check progress and status report there.
   navbar:
     - title: Status
       href: /
