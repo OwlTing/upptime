@@ -4,18 +4,20 @@
     "url": "https://api.owlting.com/booking/admin/version",
     "icon": "https://favicons.githubusercontent.com/api.owlting.com",
     "slug": "owl-nest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 725,
-    "timeDay": 760,
-    "timeWeek": 680,
-    "timeMonth": 699,
+    "timeDay": 687,
+    "timeWeek": 672,
+    "timeMonth": 696,
     "timeYear": 725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 0
+    }
   },
   {
     "name": "OwlNest - Booking Engine",
