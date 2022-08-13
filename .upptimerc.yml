@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: OwlNest - API
-    url: https://api.owlting.com/booking/admin/version
+    url: https://api.owlting.com/booking/services/alive
   - name: OwlNest - Booking Engine
     url: https://booking.owlting.com
   - name: OwlJourney
