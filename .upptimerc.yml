@@ -6,7 +6,7 @@ sites:
   - name: OwlNest - API
     url: https://api.owlting.com/booking/services/alive
   - name: OwlNest - Booking Engine
-    url: https://booking.owlting.com
+    url: https://booking.owlting.com/this-is-owlting
   - name: OwlJourney
     url: https://www.owlting.com/owljourney
   - name: OwlTing Market
