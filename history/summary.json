@@ -174,18 +174,20 @@
     "url": "https://www.owlting.com/portal",
     "icon": "https://icons.duckduckgo.com/ip3/www.owlting.com.ico",
     "slug": "owl-ting-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 702,
-    "timeWeek": 723,
-    "timeMonth": 709,
-    "timeYear": 689,
-    "dailyMinutesDown": {}
+    "time": 688,
+    "timeDay": 522,
+    "timeWeek": 675,
+    "timeMonth": 698,
+    "timeYear": 688,
+    "dailyMinutesDown": {
+      "2023-08-16": 0
+    }
   },
   {
     "name": "OwlPay Portal",
