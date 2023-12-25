@@ -70,19 +70,19 @@
     "url": "https://www.owlting.com/owljourney",
     "icon": "https://icons.duckduckgo.com/ip3/www.owlting.com.ico",
     "slug": "owl-journey",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 1163,
-    "timeWeek": 1391,
-    "timeMonth": 1346,
-    "timeYear": 880,
+    "time": 813,
+    "timeDay": 1308,
+    "timeWeek": 1414,
+    "timeMonth": 1354,
+    "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-12-25": 0
+      "2023-12-25": 21
     }
   },
   {
