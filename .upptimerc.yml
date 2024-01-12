@@ -8,23 +8,23 @@ sites:
   - name: OwlNest - Booking Engine
     url: https://booking.owlting.com/this-is-owlting
   - name: OwlJourney
-    url: https://www.owlting.com/owljourney
+    url: https://journey.owlting.com/
   - name: OwlTing Market
     url: https://www.owlting.com/market
   - name: OwlTing Experiences
-    url: https://www.owlting.com/experiences
+    url: https://experiences.owlting.com/
   - name: OwlNews
-    url: https://www.owlting.com/news
+    url: https://news.owlting.com/
   - name: OwlTing NFT
     url: https://nft.owlting.com/api/tokens/69
   - name: OwlTing Portal
     url: https://www.owlting.com/portal
   - name: OwlPay Portal
-    url: https://owlpay.com
+    url: https://www.owlting.com/owlpay
   - name: OwlTing AML
     url: https://aml.owlpay.com/v1/health
   - name: OBS Portal
-    url: https://www.owlting.com/obs/
+    url: https://obs.owlting.com/
   - name: OwlTing Blog
     url: https://blog.owlting.com/
   - name: OwlMap
