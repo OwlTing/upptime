@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.owlting.com.ico",
     "slug": "owl-nest-api",
     "status": "up",
-    "uptime": "96.85%",
+    "uptime": "96.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.15%",
+    "uptimeYear": "97.37%",
     "time": 728,
-    "timeDay": 771,
-    "timeWeek": 716,
-    "timeMonth": 705,
+    "timeDay": 649,
+    "timeWeek": 733,
+    "timeMonth": 707,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2023-02-03": 898,
@@ -24,8 +24,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -34,15 +33,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/booking.owlting.com.ico",
     "slug": "owl-nest-booking-engine",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.15%",
+    "uptimeYear": "97.37%",
     "time": 699,
-    "timeDay": 716,
-    "timeWeek": 691,
-    "timeMonth": 661,
+    "timeDay": 718,
+    "timeWeek": 717,
+    "timeMonth": 663,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2023-02-03": 898,
@@ -53,8 +52,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -69,10 +67,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 837,
-    "timeDay": 743,
-    "timeWeek": 689,
-    "timeMonth": 1031,
-    "timeYear": 916,
+    "timeDay": 522,
+    "timeWeek": 695,
+    "timeMonth": 1020,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2023-12-25": 21
     }
@@ -88,14 +86,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1509,
-    "timeDay": 2116,
-    "timeWeek": 1940,
-    "timeMonth": 1426,
-    "timeYear": 1494,
+    "time": 1510,
+    "timeDay": 1561,
+    "timeWeek": 1913,
+    "timeMonth": 1437,
+    "timeYear": 1493,
     "dailyMinutesDown": {
-      "2023-03-06": 16,
-      "2023-01-25": 18
+      "2023-03-06": 16
     }
   },
   {
@@ -105,15 +102,15 @@
     "slug": "owl-ting-experiences",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "97.19%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.02%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.89%",
-    "time": 1127,
-    "timeDay": 2058,
-    "timeWeek": 1923,
-    "timeMonth": 2090,
-    "timeYear": 1132,
+    "time": 1128,
+    "timeDay": 1826,
+    "timeWeek": 1944,
+    "timeMonth": 2081,
+    "timeYear": 1133,
     "dailyMinutesDown": {
       "2024-01-24": 20,
       "2024-01-23": 20,
@@ -134,8 +131,7 @@
       "2023-12-22": 15,
       "2023-12-21": 19,
       "2023-12-20": 20,
-      "2023-08-16": 21,
-      "2023-01-25": 17
+      "2023-08-16": 21
     }
   },
   {
@@ -149,19 +145,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.92%",
-    "time": 1689,
-    "timeDay": 2567,
-    "timeWeek": 2516,
-    "timeMonth": 1643,
-    "timeYear": 1712,
+    "time": 1690,
+    "timeDay": 1902,
+    "timeWeek": 2539,
+    "timeMonth": 1644,
+    "timeYear": 1714,
     "dailyMinutesDown": {
       "2024-01-12": 75,
       "2024-01-11": 234,
       "2023-11-16": 21,
       "2023-10-22": 19,
       "2023-06-21": 19,
-      "2023-02-02": 39,
-      "2023-01-25": 16
+      "2023-02-02": 39
     }
   },
   {
@@ -175,14 +170,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 916,
-    "timeWeek": 845,
-    "timeMonth": 788,
-    "timeYear": 907,
-    "dailyMinutesDown": {
-      "2023-01-25": 15
-    }
+    "time": 930,
+    "timeDay": 668,
+    "timeWeek": 832,
+    "timeMonth": 784,
+    "timeYear": 906,
+    "dailyMinutesDown": {}
   },
   {
     "name": "OwlTing Portal",
@@ -196,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 888,
-    "timeWeek": 822,
-    "timeMonth": 769,
+    "timeDay": 764,
+    "timeWeek": 831,
+    "timeMonth": 772,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2023-08-16": 22
@@ -215,11 +208,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1288,
-    "timeDay": 172,
+    "time": 1287,
+    "timeDay": 115,
     "timeWeek": 153,
-    "timeMonth": 2214,
-    "timeYear": 1498,
+    "timeMonth": 2199,
+    "timeYear": 1496,
     "dailyMinutesDown": {}
   },
   {
@@ -232,12 +225,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.15%",
-    "time": 634,
-    "timeDay": 648,
-    "timeWeek": 585,
-    "timeMonth": 541,
-    "timeYear": 625,
+    "uptimeYear": "97.37%",
+    "time": 633,
+    "timeDay": 472,
+    "timeWeek": 592,
+    "timeMonth": 543,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2023-02-03": 898,
       "2023-02-02": 1440,
@@ -247,8 +240,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -262,11 +254,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 731,
-    "timeWeek": 659,
-    "timeMonth": 713,
-    "timeYear": 463,
+    "time": 378,
+    "timeDay": 456,
+    "timeWeek": 644,
+    "timeMonth": 708,
+    "timeYear": 464,
     "dailyMinutesDown": {}
   },
   {
@@ -280,11 +272,11 @@
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.84%",
-    "time": 4283,
-    "timeDay": 4436,
-    "timeWeek": 5188,
-    "timeMonth": 4531,
-    "timeYear": 4283,
+    "time": 4281,
+    "timeDay": 3638,
+    "timeWeek": 5162,
+    "timeMonth": 4512,
+    "timeYear": 4280,
     "dailyMinutesDown": {
       "2024-01-18": 128,
       "2024-01-15": 16,
@@ -313,8 +305,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 686,
-    "timeWeek": 628,
+    "timeDay": 466,
+    "timeWeek": 629,
     "timeMonth": 597,
     "timeYear": 607,
     "dailyMinutesDown": {}
