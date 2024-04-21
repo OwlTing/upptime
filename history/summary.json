@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.owlting.com.ico",
     "slug": "owl-nest-api",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -80,18 +80,19 @@
     "url": "https://experiences.owlting.com/",
     "icon": "https://icons.duckduckgo.com/ip3/experiences.owlting.com.ico",
     "slug": "owl-ting-experiences",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "98.69%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "99.62%",
-    "time": 1348,
+    "time": 1349,
     "timeDay": 2143,
     "timeWeek": 2036,
     "timeMonth": 2032,
     "timeYear": 1466,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-20": 18,
       "2024-04-19": 17,
       "2024-04-18": 19,
@@ -163,8 +164,7 @@
       "2023-12-23": 40,
       "2023-12-22": 15,
       "2023-12-21": 19,
-      "2023-12-20": 20,
-      "2023-08-16": 21
+      "2023-12-20": 20
     }
   },
   {
