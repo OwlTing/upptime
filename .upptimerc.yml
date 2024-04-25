@@ -12,7 +12,7 @@ sites:
   - name: OwlTing Market
     url: https://www.owlting.com/market
   - name: OwlTing Experiences
-    url: https://experiences.owlting.com/
+    url: https://experiences.owlting.com/_nuxt/LICENSES
   - name: OwlNews
     url: https://news.owlting.com/
   - name: OwlTing NFT
