@@ -10,7 +10,7 @@ sites:
   - name: OwlJourney
     url: https://journey.owlting.com/
   - name: OwlTing Market
-    url: https://www.owlting.com/market
+    url: https://market.owlting.com/_nuxt/LICENSES
   - name: OwlTing Experiences
     url: https://experiences.owlting.com/_nuxt/LICENSES
   - name: OwlNews
