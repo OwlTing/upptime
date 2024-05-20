@@ -14,7 +14,7 @@ sites:
   - name: OwlTing Experiences
     url: https://experiences.owlting.com/_nuxt/LICENSES
   - name: OwlNews
-    url: https://news.owlting.com/
+    url: https://newsapi.owlting.com/api/uuid
   - name: OwlTing NFT
     url: https://nft.owlting.com/api/tokens/69
   - name: OwlTing Portal
