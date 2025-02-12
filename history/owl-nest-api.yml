@@ -1,7 +1,7 @@
 url: https://api.owlting.com/booking/services/alive
-status: down
-code: 403
-responseTime: 158
-lastUpdated: 2025-02-12T05:06:10.935Z
+status: up
+code: 200
+responseTime: 492
+lastUpdated: 2025-02-12T05:27:52.241Z
 startTime: 2022-01-11T08:40:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
