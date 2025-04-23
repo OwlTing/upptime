@@ -1,7 +1,7 @@
 url: https://booking.owlting.com/this-is-owlting
-status: up
-code: 200
-responseTime: 528
-lastUpdated: 2025-04-23T23:00:34.006Z
+status: down
+code: 403
+responseTime: 201
+lastUpdated: 2025-04-23T23:43:51.495Z
 startTime: 2022-01-11T08:40:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
