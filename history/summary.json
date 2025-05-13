@@ -344,19 +344,19 @@
     "url": "https://www.owlting.com/portal",
     "icon": "https://icons.duckduckgo.com/ip3/www.owlting.com.ico",
     "slug": "owl-ting-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1324,
-    "timeDay": 1177,
-    "timeWeek": 1377,
-    "timeMonth": 1387,
+    "time": 1325,
+    "timeDay": 1390,
+    "timeWeek": 1405,
+    "timeMonth": 1394,
     "timeYear": 1504,
     "dailyMinutesDown": {
-      "2025-05-13": 0
+      "2025-05-13": 16
     }
   },
   {
