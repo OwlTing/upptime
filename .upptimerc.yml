@@ -30,6 +30,7 @@ sites:
   - name: OwlMap
     url: https://api.owlting.com/owlmap/health
 
+delay: 5000 # 5 seconds
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
