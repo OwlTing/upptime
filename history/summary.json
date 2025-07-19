@@ -14,7 +14,7 @@
     "timeDay": 683,
     "timeWeek": 600,
     "timeMonth": 588,
-    "timeYear": 744,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2025-02-12": 22
     }
@@ -355,7 +355,7 @@
     "timeDay": 1568,
     "timeWeek": 1319,
     "timeMonth": 1317,
-    "timeYear": 1457,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2025-05-13": 16
     }
@@ -471,19 +471,19 @@
     "url": "https://blog.owlting.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.owlting.com.ico",
     "slug": "owl-ting-blog",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "49.26%",
-    "uptimeMonth": "88.05%",
-    "uptimeYear": "98.64%",
-    "time": 3338,
-    "timeDay": 1965,
-    "timeWeek": 1934,
-    "timeMonth": 2597,
-    "timeYear": 3051,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "1.19%",
+    "uptimeWeek": "41.65%",
+    "uptimeMonth": "86.30%",
+    "uptimeYear": "98.49%",
+    "time": 3339,
+    "timeDay": 2747,
+    "timeWeek": 2085,
+    "timeMonth": 2652,
+    "timeYear": 3044,
     "dailyMinutesDown": {
-      "2025-07-19": 30,
+      "2025-07-19": 797,
       "2025-07-18": 1423,
       "2025-07-17": 1399,
       "2025-07-16": 1375,
