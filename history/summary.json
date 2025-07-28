@@ -472,19 +472,19 @@
     "url": "https://blog.owlting.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.owlting.com.ico",
     "slug": "owl-ting-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "8.84%",
-    "uptimeWeek": "4.43%",
+    "uptimeDay": "9.89%",
+    "uptimeWeek": "4.58%",
     "uptimeMonth": "57.57%",
     "uptimeYear": "96.13%",
-    "time": 3194,
-    "timeDay": 2322,
-    "timeWeek": 2070,
-    "timeMonth": 2268,
-    "timeYear": 2968,
+    "time": 3187,
+    "timeDay": 2127,
+    "timeWeek": 2017,
+    "timeMonth": 2242,
+    "timeYear": 2963,
     "dailyMinutesDown": {
-      "2025-07-28": 864,
+      "2025-07-28": 865,
       "2025-07-27": 1353,
       "2025-07-26": 1402,
       "2025-07-25": 1404,
@@ -545,8 +545,7 @@
       "2025-02-25": 16,
       "2025-02-24": 22,
       "2025-02-23": 22,
-      "2025-02-15": 21,
-      "2025-02-14": 20
+      "2025-02-15": 21
     }
   },
   {
