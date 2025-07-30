@@ -6,7 +6,7 @@ sites:
   - name: OwlNest - API
     url: https://api.owlting.com/booking/services/alive
   - name: OwlNest - Booking Engine
-    url: https://booking.owlting.com/this-is-owlting
+    url: https://www.booking-owlnest.com/this-is-owlting
   - name: OwlJourney
     url: https://journey.owlting.com/
   - name: OwlTing Market
@@ -25,8 +25,6 @@ sites:
     url: https://aml.owlpay.com/v1/health
   - name: OBS Portal
     url: https://obs.owlting.com/
-  - name: OwlTing Blog
-    url: https://blog.owlting.com/
   - name: OwlMap
     url: https://api.owlting.com/owlmap/health
 
