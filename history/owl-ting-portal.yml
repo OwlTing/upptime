@@ -1,7 +1,7 @@
 url: https://www.owlting.com/portal
-status: up
-code: 200
-responseTime: 1188
-lastUpdated: 2025-10-15T17:28:34.815Z
+status: down
+code: 503
+responseTime: 671
+lastUpdated: 2025-10-15T18:10:22.512Z
 startTime: 2022-01-11T08:41:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
