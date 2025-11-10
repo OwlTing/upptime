@@ -387,18 +387,20 @@
     "url": "https://www.owlting.com/owlpay",
     "icon": "https://icons.duckduckgo.com/ip3/www.owlting.com.ico",
     "slug": "owl-pay-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
+    "time": 140,
     "timeDay": 117,
     "timeWeek": 133,
     "timeMonth": 142,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-10": 1
+    }
   },
   {
     "name": "OwlTing AML",
