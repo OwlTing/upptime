@@ -1,7 +1,7 @@
 url: https://newsapi.owlting.com/api/uuid
-status: up
-code: 200
-responseTime: 862
-lastUpdated: 2025-11-13T23:00:49.382Z
+status: down
+code: 502
+responseTime: 807
+lastUpdated: 2025-11-14T11:06:30.371Z
 startTime: 2022-01-11T08:40:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
