@@ -1,7 +1,7 @@
 url: https://aml.owlpay.com/v1/health
-status: up
-code: 200
-responseTime: 995
-lastUpdated: 2026-01-17T23:01:15.488Z
+status: down
+code: 403
+responseTime: 558
+lastUpdated: 2026-01-18T03:54:23.933Z
 startTime: 2022-01-13T06:58:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
