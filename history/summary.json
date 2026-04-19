@@ -199,19 +199,19 @@
     "url": "https://nft.owlting.com/api/tokens/69",
     "icon": "https://icons.duckduckgo.com/ip3/nft.owlting.com.ico",
     "slug": "owl-ting-nft",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 1007,
-    "timeWeek": 981,
-    "timeMonth": 945,
-    "timeYear": 872,
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.98%",
+    "time": 894,
+    "timeDay": 10672,
+    "timeWeek": 3401,
+    "timeMonth": 1551,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2026-04-19": 1
+      "2026-04-19": 97
     }
   },
   {
