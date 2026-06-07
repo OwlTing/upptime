@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 654,
     "timeDay": 696,
-    "timeWeek": 663,
-    "timeMonth": 621,
+    "timeWeek": 688,
+    "timeMonth": 617,
     "timeYear": 622,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "99.85%",
     "time": 576,
     "timeDay": 355,
-    "timeWeek": 383,
-    "timeMonth": 475,
+    "timeWeek": 392,
+    "timeMonth": 468,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2025-10-15": 23,
@@ -57,7 +57,7 @@
     "time": 607,
     "timeDay": 280,
     "timeWeek": 397,
-    "timeMonth": 502,
+    "timeMonth": 495,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -82,7 +82,7 @@
     "time": 590,
     "timeDay": 365,
     "timeWeek": 428,
-    "timeMonth": 501,
+    "timeMonth": 499,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -106,8 +106,8 @@
     "uptimeYear": "99.85%",
     "time": 554,
     "timeDay": 348,
-    "timeWeek": 417,
-    "timeMonth": 487,
+    "timeWeek": 419,
+    "timeMonth": 486,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2025-07-19": 23,
@@ -124,19 +124,18 @@
     "url": "https://newsapi.owlting.com/api/uuid",
     "icon": "https://icons.duckduckgo.com/ip3/newsapi.owlting.com.ico",
     "slug": "owl-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "27.19%",
-    "uptimeWeek": "62.07%",
+    "uptimeDay": "29.36%",
+    "uptimeWeek": "62.05%",
     "uptimeMonth": "91.27%",
     "uptimeYear": "99.19%",
-    "time": 688,
-    "timeDay": 330,
-    "timeWeek": 354,
-    "timeMonth": 482,
-    "timeYear": 679,
+    "time": 687,
+    "timeDay": 335,
+    "timeWeek": 346,
+    "timeMonth": 469,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-06-07": 24,
       "2025-08-04": 21,
       "2025-08-06": 23,
       "2025-08-16": 21,
@@ -157,7 +156,8 @@
       "2026-06-03": 616,
       "2026-06-04": 1165,
       "2026-06-05": 1023,
-      "2026-06-06": 1021
+      "2026-06-06": 1021,
+      "2026-06-07": 1
     }
   },
   {
@@ -173,8 +173,8 @@
     "uptimeYear": "99.98%",
     "time": 908,
     "timeDay": 938,
-    "timeWeek": 948,
-    "timeMonth": 935,
+    "timeWeek": 983,
+    "timeMonth": 931,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2026-04-19": 97
@@ -193,8 +193,8 @@
     "uptimeYear": "99.88%",
     "time": 1508,
     "timeDay": 2602,
-    "timeWeek": 2570,
-    "timeMonth": 2346,
+    "timeWeek": 2668,
+    "timeMonth": 2345,
     "timeYear": 1539,
     "dailyMinutesDown": {
       "2025-08-21": 19,
@@ -223,8 +223,8 @@
     "uptimeYear": "100.00%",
     "time": 166,
     "timeDay": 684,
-    "timeWeek": 581,
-    "timeMonth": 537,
+    "timeWeek": 616,
+    "timeMonth": 534,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2025-11-10": 22
@@ -243,8 +243,8 @@
     "uptimeYear": "99.85%",
     "time": 672,
     "timeDay": 506,
-    "timeWeek": 548,
-    "timeMonth": 625,
+    "timeWeek": 549,
+    "timeMonth": 622,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -268,8 +268,8 @@
     "uptimeYear": "100.00%",
     "time": 725,
     "timeDay": 759,
-    "timeWeek": 752,
-    "timeMonth": 701,
+    "timeWeek": 790,
+    "timeMonth": 700,
     "timeYear": 729,
     "dailyMinutesDown": {}
   },
@@ -286,8 +286,8 @@
     "uptimeYear": "100.00%",
     "time": 547,
     "timeDay": 637,
-    "timeWeek": 605,
-    "timeMonth": 560,
+    "timeWeek": 638,
+    "timeMonth": 558,
     "timeYear": 559,
     "dailyMinutesDown": {}
   }
