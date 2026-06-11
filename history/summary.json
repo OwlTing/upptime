@@ -138,10 +138,10 @@
     "slug": "owl-news",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "41.28%",
-    "uptimeWeek": "30.65%",
-    "uptimeMonth": "82.64%",
-    "uptimeYear": "98.48%",
+    "uptimeDay": "37.19%",
+    "uptimeWeek": "30.07%",
+    "uptimeMonth": "82.50%",
+    "uptimeYear": "98.47%",
     "time": 656,
     "timeDay": 261,
     "timeWeek": 307,
@@ -173,7 +173,7 @@
       "2026-06-08": 1031,
       "2026-06-09": 1000,
       "2026-06-10": 846,
-      "2026-06-11": 1
+      "2026-06-11": 60
     }
   },
   {
