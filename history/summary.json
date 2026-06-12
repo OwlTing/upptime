@@ -14,7 +14,7 @@
     "timeDay": 552,
     "timeWeek": 634,
     "timeMonth": 624,
-    "timeYear": 622,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   },
   {
@@ -62,7 +62,7 @@
     "timeDay": 393,
     "timeWeek": 382,
     "timeMonth": 470,
-    "timeYear": 618,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2026-01-18": 29,
       "2026-03-09": 85,
@@ -140,17 +140,17 @@
     "url": "https://newsapi.owlting.com/api/uuid",
     "icon": "https://icons.duckduckgo.com/ip3/newsapi.owlting.com.ico",
     "slug": "owl-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "22.10%",
-    "uptimeWeek": "33.00%",
-    "uptimeMonth": "78.44%",
+    "uptimeDay": "27.07%",
+    "uptimeWeek": "33.71%",
+    "uptimeMonth": "78.43%",
     "uptimeYear": "98.13%",
-    "time": 645,
-    "timeDay": 298,
-    "timeWeek": 311,
-    "timeMonth": 378,
-    "timeYear": 628,
+    "time": 644,
+    "timeDay": 268,
+    "timeWeek": 308,
+    "timeMonth": 376,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2025-08-04": 21,
       "2025-08-06": 23,
@@ -178,7 +178,7 @@
       "2026-06-09": 1000,
       "2026-06-10": 846,
       "2026-06-11": 818,
-      "2026-06-12": 1022
+      "2026-06-12": 1023
     }
   },
   {
@@ -196,7 +196,7 @@
     "timeDay": 880,
     "timeWeek": 947,
     "timeMonth": 938,
-    "timeYear": 937,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2026-04-19": 97
     }
@@ -216,7 +216,7 @@
     "timeDay": 2303,
     "timeWeek": 2434,
     "timeMonth": 2341,
-    "timeYear": 1549,
+    "timeYear": 1550,
     "dailyMinutesDown": {
       "2025-08-21": 19,
       "2025-10-09": 22,
@@ -266,7 +266,7 @@
     "timeDay": 507,
     "timeWeek": 547,
     "timeMonth": 605,
-    "timeYear": 693,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2026-01-18": 29,
       "2026-03-09": 85,
@@ -295,7 +295,7 @@
     "timeDay": 580,
     "timeWeek": 681,
     "timeMonth": 703,
-    "timeYear": 728,
+    "timeYear": 729,
     "dailyMinutesDown": {}
   },
   {
