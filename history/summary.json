@@ -13,7 +13,7 @@
     "time": 652,
     "timeDay": 673,
     "timeWeek": 661,
-    "timeMonth": 629,
+    "timeMonth": 636,
     "timeYear": 623,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 554,
     "timeDay": 567,
     "timeWeek": 449,
-    "timeMonth": 449,
+    "timeMonth": 448,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2025-10-15": 23,
@@ -62,7 +62,7 @@
     "time": 603,
     "timeDay": 351,
     "timeWeek": 378,
-    "timeMonth": 461,
+    "timeMonth": 466,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -122,7 +122,7 @@
     "time": 529,
     "timeDay": 560,
     "timeWeek": 431,
-    "timeMonth": 461,
+    "timeMonth": 462,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2025-07-19": 23,
@@ -144,17 +144,17 @@
     "url": "https://newsapi.owlting.com/api/uuid",
     "icon": "https://icons.duckduckgo.com/ip3/newsapi.owlting.com.ico",
     "slug": "owl-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "20.89%",
-    "uptimeWeek": "32.96%",
+    "uptimeDay": "21.21%",
+    "uptimeWeek": "32.95%",
     "uptimeMonth": "73.78%",
     "uptimeYear": "97.74%",
-    "time": 638,
-    "timeDay": 390,
-    "timeWeek": 305,
-    "timeMonth": 363,
-    "timeYear": 612,
+    "time": 637,
+    "timeDay": 315,
+    "timeWeek": 302,
+    "timeMonth": 360,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2025-08-04": 21,
       "2025-08-06": 23,
@@ -184,7 +184,7 @@
       "2026-06-11": 818,
       "2026-06-12": 1027,
       "2026-06-13": 904,
-      "2026-06-14": 1133
+      "2026-06-14": 1134
     }
   },
   {
@@ -201,7 +201,7 @@
     "time": 910,
     "timeDay": 1197,
     "timeWeek": 1019,
-    "timeMonth": 953,
+    "timeMonth": 957,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2026-04-19": 97
@@ -221,7 +221,7 @@
     "time": 1519,
     "timeDay": 2336,
     "timeWeek": 2382,
-    "timeMonth": 2359,
+    "timeMonth": 2381,
     "timeYear": 1556,
     "dailyMinutesDown": {
       "2025-08-21": 19,
@@ -251,7 +251,7 @@
     "time": 171,
     "timeDay": 655,
     "timeWeek": 519,
-    "timeMonth": 530,
+    "timeMonth": 536,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2025-11-10": 22
@@ -271,7 +271,7 @@
     "time": 673,
     "timeDay": 924,
     "timeWeek": 620,
-    "timeMonth": 612,
+    "timeMonth": 610,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -301,7 +301,7 @@
     "time": 724,
     "timeDay": 821,
     "timeWeek": 706,
-    "timeMonth": 705,
+    "timeMonth": 713,
     "timeYear": 729,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 546,
     "timeDay": 727,
     "timeWeek": 605,
-    "timeMonth": 573,
+    "timeMonth": 579,
     "timeYear": 560,
     "dailyMinutesDown": {}
   }
