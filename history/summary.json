@@ -152,17 +152,17 @@
     "url": "https://newsapi.owlting.com/api/uuid",
     "icon": "https://icons.duckduckgo.com/ip3/newsapi.owlting.com.ico",
     "slug": "owl-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "37.17%",
-    "uptimeWeek": "35.09%",
-    "uptimeMonth": "69.63%",
-    "uptimeYear": "97.39%",
+    "uptimeDay": "28.40%",
+    "uptimeWeek": "34.55%",
+    "uptimeMonth": "69.30%",
+    "uptimeYear": "97.37%",
     "time": 626,
-    "timeDay": 338,
-    "timeWeek": 301,
-    "timeMonth": 351,
-    "timeYear": 600,
+    "timeDay": 312,
+    "timeWeek": 307,
+    "timeMonth": 352,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2025-08-04": 21,
       "2025-08-06": 23,
@@ -195,7 +195,7 @@
       "2026-06-14": 1146,
       "2026-06-15": 828,
       "2026-06-16": 906,
-      "2026-06-17": 70
+      "2026-06-17": 214
     }
   },
   {
