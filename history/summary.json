@@ -90,7 +90,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/market.owlting.com.ico",
     "slug": "owl-ting-market",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "97.78%",
     "uptimeWeek": "93.94%",
     "uptimeMonth": "96.67%",
@@ -156,15 +156,15 @@
     "url": "https://newsapi.owlting.com/api/uuid",
     "icon": "https://icons.duckduckgo.com/ip3/newsapi.owlting.com.ico",
     "slug": "owl-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
     "uptimeDay": "27.56%",
-    "uptimeWeek": "33.74%",
-    "uptimeMonth": "67.25%",
-    "uptimeYear": "97.19%",
+    "uptimeWeek": "33.07%",
+    "uptimeMonth": "66.92%",
+    "uptimeYear": "97.17%",
     "time": 620,
-    "timeDay": 305,
-    "timeWeek": 308,
+    "timeDay": 300,
+    "timeWeek": 311,
     "timeMonth": 345,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -200,7 +200,7 @@
       "2026-06-15": 828,
       "2026-06-16": 906,
       "2026-06-17": 1043,
-      "2026-06-18": 69
+      "2026-06-18": 214
     }
   },
   {
