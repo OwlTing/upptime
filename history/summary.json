@@ -13,7 +13,7 @@
     "time": 653,
     "timeDay": 723,
     "timeWeek": 672,
-    "timeMonth": 652,
+    "timeMonth": 654,
     "timeYear": 625,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 552,
     "timeDay": 454,
     "timeWeek": 423,
-    "timeMonth": 432,
+    "timeMonth": 429,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2025-10-15": 23,
@@ -66,7 +66,7 @@
     "time": 571,
     "timeDay": 782,
     "timeWeek": 386,
-    "timeMonth": 437,
+    "timeMonth": 436,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -100,7 +100,7 @@
     "time": 560,
     "timeDay": 770,
     "timeWeek": 435,
-    "timeMonth": 452,
+    "timeMonth": 449,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -134,7 +134,7 @@
     "time": 527,
     "timeDay": 697,
     "timeWeek": 417,
-    "timeMonth": 440,
+    "timeMonth": 438,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2025-07-19": 23,
@@ -161,15 +161,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.owlting.com.ico",
     "slug": "owl-news",
     "status": "down",
-    "uptime": "99.25%",
+    "uptime": "99.24%",
     "uptimeDay": "28.84%",
-    "uptimeWeek": "30.34%",
-    "uptimeMonth": "60.33%",
-    "uptimeYear": "96.66%",
+    "uptimeWeek": "30.04%",
+    "uptimeMonth": "60.11%",
+    "uptimeYear": "96.64%",
     "time": 609,
     "timeDay": 563,
-    "timeWeek": 367,
-    "timeMonth": 356,
+    "timeWeek": 372,
+    "timeMonth": 354,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2025-10-31": 20,
@@ -196,7 +196,8 @@
       "2026-06-17": 1043,
       "2026-06-18": 904,
       "2026-06-19": 1197,
-      "2026-06-20": 999
+      "2026-06-20": 1025,
+      "2026-06-21": 72
     }
   },
   {
@@ -213,7 +214,7 @@
     "time": 913,
     "timeDay": 909,
     "timeWeek": 1038,
-    "timeMonth": 976,
+    "timeMonth": 980,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2026-04-19": 97
@@ -233,7 +234,7 @@
     "time": 1532,
     "timeDay": 2924,
     "timeWeek": 2558,
-    "timeMonth": 2441,
+    "timeMonth": 2454,
     "timeYear": 1576,
     "dailyMinutesDown": {
       "2025-08-21": 19,
@@ -283,7 +284,7 @@
     "time": 653,
     "timeDay": 869,
     "timeWeek": 631,
-    "timeMonth": 606,
+    "timeMonth": 604,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -335,7 +336,7 @@
     "time": 547,
     "timeDay": 615,
     "timeWeek": 604,
-    "timeMonth": 586,
+    "timeMonth": 587,
     "timeYear": 562,
     "dailyMinutesDown": {}
   }
