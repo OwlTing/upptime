@@ -1,7 +1,7 @@
 url: https://nft.owlting.com/api/tokens/69
-status: up
-code: 200
-responseTime: 935
-lastUpdated: 2026-06-25T23:26:01.511Z
+status: down
+code: 500
+responseTime: 31522
+lastUpdated: 2026-06-25T23:51:38.941Z
 startTime: 2022-01-11T08:41:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
