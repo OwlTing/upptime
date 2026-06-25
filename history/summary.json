@@ -160,16 +160,16 @@
     "url": "https://news.owlting.com/about",
     "icon": "https://icons.duckduckgo.com/ip3/news.owlting.com.ico",
     "slug": "owl-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "27.83%",
-    "uptimeWeek": "31.53%",
-    "uptimeMonth": "57.85%",
+    "uptimeDay": "27.89%",
+    "uptimeWeek": "31.54%",
+    "uptimeMonth": "57.84%",
     "uptimeYear": "96.49%",
     "time": 610,
-    "timeDay": 420,
-    "timeWeek": 473,
-    "timeMonth": 371,
+    "timeDay": 500,
+    "timeWeek": 481,
+    "timeMonth": 374,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2026-06-06": 1021,
@@ -192,7 +192,7 @@
       "2026-06-22": 751,
       "2026-06-23": 1097,
       "2026-06-24": 1039,
-      "2026-06-25": 62
+      "2026-06-25": 64
     }
   },
   {
