@@ -164,8 +164,8 @@
     "uptime": "99.23%",
     "uptimeDay": "32.00%",
     "uptimeWeek": "33.72%",
-    "uptimeMonth": "58.70%",
-    "uptimeYear": "96.56%",
+    "uptimeMonth": "58.56%",
+    "uptimeYear": "96.55%",
     "time": 606,
     "timeDay": 592,
     "timeWeek": 520,
@@ -191,7 +191,7 @@
       "2026-06-23": 1097,
       "2026-06-24": 1039,
       "2026-06-25": 868,
-      "2026-06-26": 685
+      "2026-06-26": 743
     }
   },
   {
@@ -199,20 +199,20 @@
     "url": "https://nft.owlting.com/api/tokens/69",
     "icon": "https://icons.duckduckgo.com/ip3/nft.owlting.com.ico",
     "slug": "owl-ting-nft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "83.79%",
+    "uptimeDay": "83.73%",
     "uptimeWeek": "97.68%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.94%",
-    "time": 1128,
-    "timeDay": 16165,
-    "timeWeek": 8507,
-    "timeMonth": 3749,
-    "timeYear": 1228,
+    "time": 1189,
+    "timeDay": 18032,
+    "timeWeek": 10014,
+    "timeMonth": 4451,
+    "timeYear": 1308,
     "dailyMinutesDown": {
       "2026-04-19": 97,
-      "2026-06-26": 225,
+      "2026-06-26": 226,
       "2026-06-25": 8
     }
   },
