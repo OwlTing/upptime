@@ -160,16 +160,16 @@
     "url": "https://news.owlting.com/about",
     "icon": "https://icons.duckduckgo.com/ip3/news.owlting.com.ico",
     "slug": "owl-news",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "37.96%",
-    "uptimeWeek": "35.54%",
-    "uptimeMonth": "58.65%",
-    "uptimeYear": "96.55%",
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "38.03%",
+    "uptimeWeek": "34.70%",
+    "uptimeMonth": "58.45%",
+    "uptimeYear": "96.54%",
     "time": 606,
-    "timeDay": 576,
-    "timeWeek": 537,
-    "timeMonth": 393,
+    "timeDay": 591,
+    "timeWeek": 540,
+    "timeMonth": 395,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2026-06-08": 787,
@@ -191,7 +191,7 @@
       "2026-06-24": 1039,
       "2026-06-25": 868,
       "2026-06-26": 977,
-      "2026-06-27": 65
+      "2026-06-27": 149
     }
   },
   {
@@ -199,22 +199,22 @@
     "url": "https://nft.owlting.com/api/tokens/69",
     "icon": "https://icons.duckduckgo.com/ip3/nft.owlting.com.ico",
     "slug": "owl-ting-nft",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "82.47%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.92%",
-    "time": 1370,
-    "timeDay": 20343,
-    "timeWeek": 12814,
-    "timeMonth": 6213,
+    "uptimeDay": "76.59%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.90%",
+    "time": 1371,
+    "timeDay": 18622,
+    "timeWeek": 12244,
+    "timeMonth": 6104,
     "timeYear": 1541,
     "dailyMinutesDown": {
       "2026-04-19": 97,
       "2026-06-26": 321,
       "2026-06-25": 8,
-      "2026-06-27": 1
+      "2026-06-27": 85
     }
   },
   {
