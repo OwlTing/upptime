@@ -13,7 +13,7 @@
     "time": 650,
     "timeDay": 467,
     "timeWeek": 489,
-    "timeMonth": 620,
+    "timeMonth": 623,
     "timeYear": 622,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 551,
     "timeDay": 432,
     "timeWeek": 441,
-    "timeMonth": 421,
+    "timeMonth": 418,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2025-10-15": 23,
@@ -66,7 +66,7 @@
     "time": 575,
     "timeDay": 550,
     "timeWeek": 550,
-    "timeMonth": 425,
+    "timeMonth": 422,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -100,7 +100,7 @@
     "time": 563,
     "timeDay": 506,
     "timeWeek": 476,
-    "timeMonth": 439,
+    "timeMonth": 437,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -163,13 +163,13 @@
     "status": "down",
     "uptime": "99.26%",
     "uptimeDay": "43.76%",
-    "uptimeWeek": "36.13%",
-    "uptimeMonth": "60.58%",
-    "uptimeYear": "96.71%",
+    "uptimeWeek": "35.52%",
+    "uptimeMonth": "60.39%",
+    "uptimeYear": "96.70%",
     "time": 598,
     "timeDay": 477,
-    "timeWeek": 522,
-    "timeMonth": 401,
+    "timeWeek": 516,
+    "timeMonth": 400,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2026-06-10": 161,
@@ -190,7 +190,8 @@
       "2026-06-25": 868,
       "2026-06-26": 977,
       "2026-06-27": 896,
-      "2026-06-28": 794
+      "2026-06-28": 809,
+      "2026-06-29": 66
     }
   },
   {
@@ -207,7 +208,7 @@
     "time": 1371,
     "timeDay": 763,
     "timeWeek": 12822,
-    "timeMonth": 5982,
+    "timeMonth": 6094,
     "timeYear": 1540,
     "dailyMinutesDown": {
       "2026-04-19": 97,
@@ -230,7 +231,7 @@
     "time": 1539,
     "timeDay": 1833,
     "timeWeek": 1930,
-    "timeMonth": 2369,
+    "timeMonth": 2384,
     "timeYear": 1589,
     "dailyMinutesDown": {
       "2025-08-21": 19,
@@ -260,7 +261,7 @@
     "time": 182,
     "timeDay": 452,
     "timeWeek": 405,
-    "timeMonth": 523,
+    "timeMonth": 522,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-11-10": 22
@@ -280,7 +281,7 @@
     "time": 655,
     "timeDay": 729,
     "timeWeek": 655,
-    "timeMonth": 597,
+    "timeMonth": 595,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -314,7 +315,7 @@
     "time": 724,
     "timeDay": 533,
     "timeWeek": 587,
-    "timeMonth": 702,
+    "timeMonth": 703,
     "timeYear": 728,
     "dailyMinutesDown": {}
   },
@@ -332,7 +333,7 @@
     "time": 546,
     "timeDay": 444,
     "timeWeek": 451,
-    "timeMonth": 565,
+    "timeMonth": 566,
     "timeYear": 560,
     "dailyMinutesDown": {}
   }
