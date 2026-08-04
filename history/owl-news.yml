@@ -1,7 +1,7 @@
 url: https://newsapi.owlting.com/api/test.xml
-status: up
-code: 200
-responseTime: 604
-lastUpdated: 2026-08-03T23:19:58.885Z
+status: down
+code: 403
+responseTime: 164
+lastUpdated: 2026-08-04T12:03:56.329Z
 startTime: 2022-01-11T08:40:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
