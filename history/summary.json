@@ -24,16 +24,16 @@
     "url": "https://www.booking-owlnest.com/this-is-owlting",
     "icon": "https://icons.duckduckgo.com/ip3/www.booking-owlnest.com.ico",
     "slug": "owl-nest-booking-engine",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.67%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.66%",
     "time": 556,
-    "timeDay": 269,
-    "timeWeek": 485,
-    "timeMonth": 473,
+    "timeDay": 448,
+    "timeWeek": 514,
+    "timeMonth": 483,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2025-10-15": 23,
@@ -53,7 +53,7 @@
       "2026-06-17": 32,
       "2026-06-18": 82,
       "2026-08-04": 60,
-      "2026-08-08": 2
+      "2026-08-08": 57
     }
   },
   {
@@ -61,16 +61,16 @@
     "url": "https://journey.owlting.com/",
     "icon": "https://icons.duckduckgo.com/ip3/journey.owlting.com.ico",
     "slug": "owl-journey",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.67%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.66%",
     "time": 588,
-    "timeDay": 280,
-    "timeWeek": 494,
-    "timeMonth": 554,
+    "timeDay": 399,
+    "timeWeek": 507,
+    "timeMonth": 556,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -89,7 +89,7 @@
       "2026-06-17": 32,
       "2026-06-18": 81,
       "2026-08-04": 60,
-      "2026-08-08": 2
+      "2026-08-08": 57
     }
   },
   {
@@ -97,16 +97,16 @@
     "url": "https://market.owlting.com/_nuxt/LICENSES",
     "icon": "https://icons.duckduckgo.com/ip3/market.owlting.com.ico",
     "slug": "owl-ting-market",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.67%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.66%",
     "time": 570,
-    "timeDay": 282,
-    "timeWeek": 493,
-    "timeMonth": 533,
+    "timeDay": 414,
+    "timeWeek": 510,
+    "timeMonth": 538,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -125,7 +125,7 @@
       "2026-06-17": 32,
       "2026-06-18": 81,
       "2026-08-04": 60,
-      "2026-08-08": 2
+      "2026-08-08": 56
     }
   },
   {
@@ -133,16 +133,16 @@
     "url": "https://experiences.owlting.com/_nuxt/LICENSES",
     "icon": "https://icons.duckduckgo.com/ip3/experiences.owlting.com.ico",
     "slug": "owl-ting-experiences",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.67%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.66%",
     "time": 541,
-    "timeDay": 266,
-    "timeWeek": 443,
-    "timeMonth": 521,
+    "timeDay": 364,
+    "timeWeek": 454,
+    "timeMonth": 522,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -161,7 +161,7 @@
       "2026-06-17": 32,
       "2026-06-18": 81,
       "2026-08-04": 60,
-      "2026-08-08": 1
+      "2026-08-08": 56
     }
   },
   {
@@ -169,16 +169,16 @@
     "url": "https://newsapi.owlting.com/api/test.xml",
     "icon": "https://icons.duckduckgo.com/ip3/newsapi.owlting.com.ico",
     "slug": "owl-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "96.71%",
-    "time": 582,
-    "timeDay": 291,
-    "timeWeek": 476,
-    "timeMonth": 528,
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "96.70%",
+    "time": 581,
+    "timeDay": 468,
+    "timeWeek": 507,
+    "timeMonth": 536,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2026-06-13": 223,
@@ -204,7 +204,7 @@
       "2026-07-29": 3,
       "2026-07-28": 35,
       "2026-08-04": 59,
-      "2026-08-08": 1
+      "2026-08-08": 56
     }
   },
   {
@@ -285,16 +285,16 @@
     "url": "https://aml.owlpay.com/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/aml.owlpay.com.ico",
     "slug": "owl-ting-aml",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.68%",
-    "time": 669,
-    "timeDay": 367,
-    "timeWeek": 600,
-    "timeMonth": 676,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.67%",
+    "time": 668,
+    "timeDay": 498,
+    "timeWeek": 615,
+    "timeMonth": 678,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -313,7 +313,7 @@
       "2026-06-17": 32,
       "2026-06-18": 81,
       "2026-08-04": 59,
-      "2026-08-08": 1
+      "2026-08-08": 56
     }
   },
   {
