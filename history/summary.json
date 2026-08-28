@@ -4,19 +4,20 @@
     "url": "https://api.owlting.com/booking/services/alive",
     "icon": "https://icons.duckduckgo.com/ip3/api.owlting.com.ico",
     "slug": "owl-nest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 618,
     "timeDay": 691,
     "timeWeek": 562,
     "timeMonth": 541,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2026-07-25": 67
+      "2026-07-25": 67,
+      "2026-08-28": 16
     }
   },
   {
@@ -291,13 +292,13 @@
     "url": "https://aml.owlpay.com/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/aml.owlpay.com.ico",
     "slug": "owl-ting-aml",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.65%",
-    "time": 673,
+    "time": 672,
     "timeDay": 748,
     "timeWeek": 724,
     "timeMonth": 635,
@@ -320,7 +321,8 @@
       "2026-06-18": 81,
       "2026-08-04": 59,
       "2026-08-08": 89,
-      "2026-08-11": 22
+      "2026-08-11": 22,
+      "2026-08-28": 11
     }
   },
   {
@@ -328,28 +330,30 @@
     "url": "https://obs.owlting.com/",
     "icon": "https://icons.duckduckgo.com/ip3/obs.owlting.com.ico",
     "slug": "obs-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 717,
     "timeDay": 713,
     "timeWeek": 602,
     "timeMonth": 603,
     "timeYear": 706,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-28": 6
+    }
   },
   {
     "name": "OwlMap",
     "url": "https://api.owlting.com/owlmap/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.owlting.com.ico",
     "slug": "owl-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
@@ -357,6 +361,8 @@
     "timeWeek": 487,
     "timeMonth": 474,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-28": 1
+    }
   }
 ]
