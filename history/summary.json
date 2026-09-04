@@ -292,16 +292,16 @@
     "url": "https://aml.owlpay.com/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/aml.owlpay.com.ico",
     "slug": "owl-ting-aml",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.62%",
     "time": 673,
-    "timeDay": 457,
-    "timeWeek": 621,
-    "timeMonth": 635,
+    "timeDay": 528,
+    "timeWeek": 627,
+    "timeMonth": 636,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2026-01-18": 29,
@@ -323,7 +323,7 @@
       "2026-08-08": 89,
       "2026-08-11": 22,
       "2026-08-28": 188,
-      "2026-09-04": 1
+      "2026-09-04": 13
     }
   },
   {
