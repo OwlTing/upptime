@@ -4,21 +4,21 @@
     "url": "https://api.owlting.com/booking/services/alive",
     "icon": "https://icons.duckduckgo.com/ip3/api.owlting.com.ico",
     "slug": "owl-nest-api",
-    "status": "down",
+    "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.94%",
     "time": 610,
-    "timeDay": 463,
-    "timeWeek": 517,
+    "timeDay": 498,
+    "timeWeek": 522,
     "timeMonth": 564,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2026-07-25": 67,
       "2026-08-28": 193,
-      "2026-10-12": 1
+      "2026-10-12": 38
     }
   },
   {
